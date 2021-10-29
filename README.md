@@ -1,7 +1,7 @@
 <h2 align="Center"><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"> </h2>
 
 <h2 align="Center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi I'm 
-<h2 align="Center"><img src ="https://en.bloggif.com/tmp/314b095442345132b3693e0221a6466b/text.gif?1635489790" ></h2> 
+<h2 align="Center"><img src ="https://github.com/ashkin2/ashkin2/blob/main/ashkin.gif" ></h2> 
 
 ## 🙋‍♂️ About Me
 
